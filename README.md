@@ -1,2 +1,2 @@
-# webpages.github.io
+# webpages
 webpages for website under learning
